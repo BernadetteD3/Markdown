@@ -15,3 +15,8 @@
 ###### km_clusters = model.fit_predict(features.values)
 ###### View the cluster assignments
 ###### km_clusters
+
+### Task list
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
